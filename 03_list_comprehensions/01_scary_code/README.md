@@ -74,7 +74,7 @@ Final list: [1, 3, 1, 1, 1, 3, 1, 5, 3, 3]
 
 - Use Python list methods effectively (extend, count, remove, etc.).
 
-📌 Topics Covered
+## 📌 Topics Covered
 - List methods
 
 - In-place data manipulation
