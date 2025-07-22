@@ -35,37 +35,39 @@ Each folder corresponds to a course topic or a group of related lessons, contain
 
 📂 02_list_methods
 
-📂 03_list_comprehensions
+📂 03_algorithms_basics
 
-📂 04_strings
+📂 04_list_comprehensions
 
-📂 05_dicts_sets
+📂 05_strings
 
-📂 06_tuples
+📂 06_dicts_sets
 
-📂 07_recursion
+📂 07_tuples
 
-📂 08_file_handling
+📂 08_recursion
 
-📂 9_exceptions
+📂 09_file_handling
 
-📂 10_oop_intro
+📂 10_exceptions
 
-📂 11_oop_principles
+📂 11_oop_intro
 
-📂 12_iterators_generators
+📂 12_oop_principles
 
-📂 13_decorators_basic
+📂 13_iterators_generators
 
-📂 14_advanced_classes
+📂 14_decorators_basic
 
-📂 15_decorators_advanced
+📂 15_advanced_classes
 
-📂 16_functional_programming
+📂 16_decorators_advanced
 
-📂 17_data_libraries
+📂 17_functional_programming
 
-📂 18_telegram_bot_prep
+📂 18_data_libraries
+
+📂 19_telegram_bot_prep
 
 
 ## 🎯 Goal
